@@ -9,7 +9,7 @@
 
 빌드 : Apache Tomcat 
 
-빌드 장치 : groovy
+프로젝트 관리도구 : gradle
 
 템플릿 엔진 : jsp
 
