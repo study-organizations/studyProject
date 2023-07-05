@@ -6,6 +6,6 @@
     <title>Insert title here</title>
 </head>
 <body>
-테스트 페이지
+커밋용 테스트
 </body>
 </html>
